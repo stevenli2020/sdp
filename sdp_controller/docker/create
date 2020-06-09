@@ -1,0 +1,1 @@
+docker run -dit --name sdp --network sdp_demo --cap-add=NET_ADMIN -v /root/sdp/sdp_controller/app:/app ubuntu:20.04 bash

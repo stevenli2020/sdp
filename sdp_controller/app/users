@@ -1,0 +1,20 @@
+{
+    "7110eda4d09e062a": {
+        "SERVICES": [
+            {
+                "TEST_HTTP": {
+                    "HOST": "TEST_HTTP_HOST",
+                    "PORT": 80
+                }
+            },
+            {
+                "TEST_HTTPS": {
+                    "HOST": "TEST_HTTPS_HOST",
+                    "PORT": 443
+                }
+            }
+        ],
+        "RSA_PUB_KEY": "AAAAB3NzaC1yc2EAAAADAQABAAABgQC8KD5IOJ+8sWfTeiNVjX6itdBO6aIOi9gI1zAQaOE2inJv79VpsSlzI4clyNPQMsMS2JTJJsf3jnqOQhFmoQOtk/jyB5Ef/jn8RXHPkQlWHfdL0Lo9FTkncYz6ieZWBfedbaFaAJkC7JlkE/ab9DQsBldY9V9DxU+dMZCRplha8VexQNRaqTYo6NdKzLOIbhS3nMVVebbgdz7nxOmCFH/3VKaFjRuHy29OX38fc5PM2Byyg1rHFwRNWKZd2U1ZY5qWRCsfLeZKC0lj8PWUjRhs7V9s1CRsjSMiVMV8QJ7bIlwR5Y8us0BwdTyuGy7KTzDbF0mvs3as9QBhOA4WhBkA1I5gqrnGitkLLe0dK4Ntijgq6FLm4KfoGvIWOROlWsWxixH5V/71Y/W3vJR6sjUkoxJajxnLc8P95byTLXF+fxWSwjPkxResh+na+XlKIw2azmpOz3bc8qFhOUenA2+FHV98aeAedzt3Nv7G/7tphNS+TN71vC70IWvOoB0SrYc=",
+        "SPA_CTR": 100
+    }
+}
