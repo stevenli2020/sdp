@@ -1,0 +1,1 @@
+docker run -d --name db --network sdp_demo -e MYSQL_ROOT_PASSWORD=sdpdemo mysql:5.7
