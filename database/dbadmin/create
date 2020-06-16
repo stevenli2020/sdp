@@ -1,1 +1,1 @@
-docker run -d --name dbadmin --network sdp_demo -e PMA_HOST=db -p 80:80 phpmyadmin/phpmyadmin
+docker run -d --name dbadmin -e PMA_HOST=db -p 80:80 phpmyadmin/phpmyadmin
