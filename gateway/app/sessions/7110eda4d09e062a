@@ -1,0 +1,19 @@
+{
+  "SERVICES_AUTHORIZED": [
+    {
+      "TEST_HTTP": {
+        "HOST": "TEST_HTTP_HOST",
+        "PORT": 80
+      }
+    },
+    {
+      "TEST_HTTPS": {
+        "HOST": "TEST_HTTPS_HOST",
+        "PORT": 443
+      }
+    }
+  ],
+  "SESSION_ID": "fcf2d133",
+  "SESSION_USER": "7110eda4d09e062a-fcf2d133",
+  "SESSION_USER_IP": "192.168.0.3"
+}

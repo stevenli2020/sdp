@@ -1,1 +1,1 @@
-docker run -dit --name sdp --network sdp_demo --cap-add=NET_ADMIN -v /root/sdp/sdp_controller/app:/app ubuntu:20.04 bash
+docker run -dit --name sdp --network sdp_demo --privileged --cap-add=SYS_ADMIN --cap-add=NET_ADMIN -v /root/sdp/sdp_controller/app:/app ubuntu:18.04 bash
