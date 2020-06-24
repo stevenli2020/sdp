@@ -1,1 +1,1 @@
-docker run -dit --name gateway --network sdp_demo --privileged --cap-add=SYS_ADMIN --cap-add=NET_ADMIN -v /root/sdp/gateway/app:/app ubuntu:18.04 bash
+docker run -dit --name gateway --privileged --cap-add=SYS_ADMIN --cap-add=NET_ADMIN -p 50022:22 -v /sdp/gateway/app:/app base bash

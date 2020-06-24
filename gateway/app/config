@@ -3,6 +3,6 @@
 	"MQTT_CLIENT_USERNAME": "gateway",
 	"MQTT_CLIENT_ID": "00002",
 	"MQTT_CLIENT_PWD": "gateway",
-	"MQTT_HOST_NAME": "msg",
+	"MQTT_HOST_NAME": "172.17.0.2",
 	"MQTT_PORT": 1883
 }
