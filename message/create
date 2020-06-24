@@ -1,5 +1,4 @@
-docker run -d --name msg --network sdp_demo \
+docker run -d --name msg \
 -e "MYSQL_ROOT_PASSWORD = sdpdemo" \
 -e "DOCKER_VERNEMQ_ACCEPT_EULA = yes" \
--p 1883:1883 \
 -d vernemq/vernemq
