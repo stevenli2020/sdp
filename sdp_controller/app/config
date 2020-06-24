@@ -8,6 +8,6 @@
 	"DB_USER":"SDP",
 	"DB_PWD":"9W2BTlHPzuqLKTR9",
 	"DB_DB":"SDP",
-	"MQTT_HOST_NAME":"msg",
+	"MQTT_HOST_NAME":"172.17.0.2",
 	"MQTT_PORT":1883
 }

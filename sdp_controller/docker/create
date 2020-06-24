@@ -1,1 +1,1 @@
-docker run -dit --name sdp --privileged --cap-add=SYS_ADMIN --cap-add=NET_ADMIN -p 60001:60001 -v /root/sdp/sdp_controller/app:/app base bash
+docker run -dit --name sdp --privileged --cap-add=SYS_ADMIN --cap-add=NET_ADMIN -p 60001:60001/udp -p 1883:1883 -v /sdp/sdp_controller/app:/app base bash
