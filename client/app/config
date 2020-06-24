@@ -1,25 +1,25 @@
 {
-	"SDP_HOST": "206.189.155.46",
-	"SDP_SPA_PORT": 60001,
-	"GATEWAY_HOST": "gateway",
-	"GATEWAY_TLS_PORT": 22,
-	"SDP_MQTT_PORT": 1883,
-	"SESSION_COUNTER": 407,
-	"SESSION_ID": [],
-	"SESSION_SEED": "4068f088",
-	"SESSION_SHARED_IV": "1745667f465f588877e987cca116e0aa",
-	"SESSION_SHARED_KEY": "4068f0880b399410602d694b3cc711c8",
-	"UID": "7110eda4d09e062aa5e4a390b0a572ac0d2c0220",
-	"USER_SVC_REQ": [
-		{
-			"HOST": "TEST_HTTP_HOST",
-			"NAME": "TEST_HTTP",
-			"PORT": 80
-		},
-		{
-			"HOST": "TEST_HTTPS_HOST",
-			"NAME": "TEST_HTTPS",
-			"PORT": 443
-		}
-	]
+    "GATEWAY_HOST": "157.245.205.192",
+    "GATEWAY_TLS_PORT": 50022,
+    "SDP_HOST": "157.245.205.192",
+    "SDP_MQTT_PORT": 1883,
+    "SDP_SPA_PORT": 60001,
+    "SESSION_COUNTER": 1551,
+    "SESSION_ID": [],
+    "SESSION_SEED": "4068f088",
+    "SESSION_SHARED_IV": "1745667f465f588877e987cca116e0aa",
+    "SESSION_SHARED_KEY": "4068f0880b399410602d694b3cc711c8",
+    "UID": "7110eda4d09e062aa5e4a390b0a572ac0d2c0220",
+    "USER_SVC_REQ": [
+        {
+            "HOST": "TEST_HTTP_HOST",
+            "NAME": "TEST_HTTP",
+            "PORT": 80
+        },
+        {
+            "HOST": "TEST_HTTPS_HOST",
+            "NAME": "TEST_HTTPS",
+            "PORT": 443
+        }
+    ]
 }
